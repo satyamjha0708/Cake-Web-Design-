@@ -1,0 +1,180 @@
+.main{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
+.main .heading {
+    font-family: 'DM Serif Display';
+    font-size: 60px;
+}
+
+
+.c1 {
+    font-family: 'Anek Bangla';
+    font-size: 22px;
+}
+
+
+.box {
+    padding: 25px;
+    width: auto;
+    height: 340px;
+    border-radius: 12px;
+    box-shadow: 5px 5px 5px 5px gray;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+.box .yeild,
+.prep,
+.cook,
+.total {
+
+    width: fit-content;
+    display: flex;
+}
+
+.yeild .t1 h5 {
+    margin-bottom: -18px;
+
+}
+
+.yeild img {
+    height: 44px;
+    margin-top: 20px;
+    margin-left: 8px;
+}
+
+
+
+.prep .t2 h5 {
+    margin-bottom: -18px;
+
+}
+
+.prep img {
+    height: 44px;
+    margin-top: 20px;
+    margin-left: 8px;
+}
+
+
+
+.cook .t3 h5 {
+    margin-bottom: -18px;
+
+}
+
+.cook img {
+    height: 44px;
+    margin-top: 20px;
+    margin-left: 8px;
+}
+
+
+
+.total .t4 h5 {
+    margin-bottom: -18px;
+
+}
+
+.total img {
+    height: 44px;
+    margin-top: 20px;
+    margin-left: 8px;
+}
+
+
+.ing h1 {
+    font-family: 'Arbutus Slab';
+    font-size: 32px;
+    font-style: bold;
+}
+
+.q1 h2 {
+    font-family: 'Bad Script';
+    font-size: 20px;
+}
+
+.ing {
+    font-family: 'Baloo 2';
+    font-size: 18px;
+    /* background-color: blueviolet; */
+    width: 710px;
+    text-align: justify;
+}
+
+
+.c1{
+    width: 600px;
+    font-family: ;
+    font-size: 15px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    line-height: 17px;
+
+}
+.q2 h2 {
+
+    font-family: 'Bad Script';
+    font-size: 20px;
+}
+
+
+.l1 {
+    display: flex;
+    width: auto;
+}
+
+.intruction {
+
+    text-justify: auto;
+    width: 700px;
+}
+.intruction h2{
+    font-family: 'Arbutus Slab';
+    font-size: 32px;
+    font-style: bold;
+}
+
+
+.m1,.m2,.m3,.m4,.m5,.m6,.m7{
+    display: flex;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.b1,.b2,.b3,.b4,.b5,.b6,.b7{
+    background-color: rgb(234, 156, 11);
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: -6px;
+    border-radius: 10px;
+}
+
+.r1,.r2,.r3,.r4,.r5,.r6,.r7{
+    font-family: 'Baloo 2';
+    font-size: 18px;
+    width: 600px;
+    margin-left: 4px;
+    line-height: 25px;
+ 
+}
+
+
+.i1{
+    height: 400px;
+    width: 940px;
+}
+
+
+.footer{
+    margin-top: 30px;
+    font-family: 'Baloo 2';
+    text-align: center;
+}
